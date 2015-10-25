@@ -1170,11 +1170,11 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     rules: "Правила"
     winners: "Победители"
     league: "Лига"
-#    red_ai: "Red AI" # "Red AI Wins", at end of multiplayer match playback
-#    blue_ai: "Blue AI"
-#    wins: "Wins" # At end of multiplayer match playback
-#    humans: "Red" # Ladder page display team name
-#    ogres: "Blue"
+#    red_ai: "Красный ИИ" # "Red AI Wins", at end of multiplayer match playback
+#    blue_ai: "Синий ИИ"
+#    wins: "Победил" # At end of multiplayer match playback
+#    humans: "Красные" # Ladder page display team name
+#    ogres: "Синие"
 
   user:
     stats: "Характеристики"
@@ -1247,12 +1247,12 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     success: "Оплата прошла успешно. Спасибо!"
 
 #  account_prepaid:
-#    purchase_code: "Purchase a Subscription Code"
+#    purchase_code: "Купить код подписки"
 #    purchase_amount: "Amount"
-#    purchase_total: "Total"
-#    purchase_button: "Submit Purchase"
-#    your_codes: "Your Codes:"
-#    redeem_codes: "Redeem a Subscription Code"
+#    purchase_total: "Всего"
+#    purchase_button: "Потдвердить покупку"
+#    your_codes: "Ваш код:"
+#    redeem_codes: "Запросить код подписки"
 
   loading_error:
     could_not_load: "Ошибка загрузки с сервера"
